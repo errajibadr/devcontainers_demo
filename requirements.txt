@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+streamlit
+jupyter
+sqlalchemy
+psycopg2-binary
+redis
+celery
+pandas
+yfinance
+plotly
+ruff
+python-dotenv
+httpx>=0.24.0
+pytest>=7.3.1
